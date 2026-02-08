@@ -39,7 +39,13 @@ The project further explores Real-Time Optimal Management, using cloud computing
 
 
 
-Authors: Salvatore Caputo & Gaetano Improta 
+## Documentation
+For a detailed explanation of the mathematical model, please refer to the technical report:
+* [Download Technical Report (PDF)](docs/TSP_problem.pdf)
+
+## Contributors
+* **Gaetano Improta** - [GitHub](https://github.com/gaetanoimprota) | [LinkedIn](https://linkedin.com/in/gaetano-improta)
+* **Salvatore Caputo** - [GitHub](https://github.com/Trustnototore) | [LinkedIn](https://www.linkedin.com/in/salvatore-caputo-1ab877258/)
 
 
 Academic Year: 2025/2026 
